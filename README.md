@@ -1,5 +1,9 @@
 # Applied-Control-Systems-2-UAV-drone-3D-Dynamics-control-
 
+<p align="center"><img src="https://github.com/RIT-MESH/Applied-Control-Systems-2-UAV-drone-3D-Dynamics-control-/blob/main/course%20image.jpg?raw=true"alt="Sublime's custom image"/>
+</p>
+
+
 ## What you’ll learn
 - mathematical modelling of a UAV quadcopter drone
 - obtaining kinematic equations: Rotation & Transfer matrices
