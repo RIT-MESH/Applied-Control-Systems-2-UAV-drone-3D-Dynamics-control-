@@ -15,3 +15,8 @@
 - mastering & applying a feedback linearization controller to the UAV
 - combining Model Predictive Control and feedback linearization in one global controller
 - simulating the drone's trajectory tracking in Python using the MPC and feedback linearization controller
+
+## Who this course is for:
+- Science and Engineering students
+- Working Scientists and Engineers
+- Control Engineering enthusiasts
